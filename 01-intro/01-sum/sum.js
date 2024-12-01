@@ -3,5 +3,6 @@ export default function sum(a, b) {
     throw new TypeError();
   }
 
+  // test
   return a + b;
 }
